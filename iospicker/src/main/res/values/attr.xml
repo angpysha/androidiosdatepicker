@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <declare-styleable name="iOSDatePicker">
+        <attr name="titleText" format="string"/>
+        <attr name="titleTextRes" format="reference"/>
+        <attr name="titlebackground" format="color"/>
+        <attr name="fontSize" format="dimension"/>
+    </declare-styleable>
+</resources>
